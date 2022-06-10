@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@itskalejaye" target="blank"><img src="https://img.shields.io/twitter/follow/@itskalejaye?logo=twitter&style=for-the-badge" alt="@itskalejaye" /></a> </p>
 
-<p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642..." /></p>
+<p><img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/264642...](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif)" /></p>
 
 
 - 🌱 I’m currently learning **React, Technical Writing etc.**
