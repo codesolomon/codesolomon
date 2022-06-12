@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kalejaiye Solomon Joseph</h1>
-<h3 align="center">A passionate frontend developer from Nigeria and I'm in my penultimate at CMUL pursuing B.Sc in RADIOGRAPHY, and also have diploma in COMPUTER SCIENCE at POLYTECHNIC IBADAN. I like to Code, watch football, read, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. I am Skilled in Sass, Styled-component, JavaScript, React.js. I love share my experiences, all the learnings so, that I can help people with my knowledge and understanding. I love to spread awareness and help people in each way possible. I love solving different problems and exploring new fields. I am right now working on my project "Redorite and FortTyres". I believe in practicality and love to implement stuff. I enjoy challenges that push me out of my comfort zone.</h3>
+<h3 align="center">A passionate frontend developer from Nigeria and trying to figire things out.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesolomon&label=Profile%20views&color=0e75b6&style=flat" alt="codesolomon" /> </p>
 
