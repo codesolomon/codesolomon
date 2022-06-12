@@ -1,5 +1,5 @@
+<header> <img src="/header.png" alt="codesolomon"></header>
 
-<h1 align="center">Hi 👋, I'm Kalejaiye Solomon Joseph</h1>
 <h3 align="center">A passionate frontend developer from Nigeria and trying to figire things out.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesolomon&label=Profile%20views&color=0e75b6&style=flat" alt="codesolomon" /> </p>
