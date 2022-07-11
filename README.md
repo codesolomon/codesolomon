@@ -1,6 +1,6 @@
 <header> <img src="/header.png" alt="codesolomon"></header>
 
-<h3 align="center">A passionate frontend developer from Nigeria and trying to figire things out.</h3>
+<h3 align="center">A passionate frontend developer from Nigeria and trying to figure things out.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codesolomon&label=Profile%20views&color=0e75b6&style=flat" alt="codesolomon" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1KDDwwVPNmedCyNsMoyE0UrqqDZKY9RPIC3b03r78tv4/edit?usp=sharing](https://docs.google.com/document/d/1KDDwwVPNmedCyNsMoyE0UrqqDZKY9RPIC3b03r78tv4/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I don't sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
