@@ -11,11 +11,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
 
-- 🌱 I’m currently learning **TypeScript , Technical Writing etc.**
+- 🌱 I’m currently learning **TypeScript and Technical Writing etc.**
 
 - 📫 How to reach me **solomonkalejaiye@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/111dHsp2xIYsxYM1HwpKXqyo4KtKo2oH-V6kK1qwd1jY/edit?usp=sharing](https://docs.google.com/document/d/111dHsp2xIYsxYM1HwpKXqyo4KtKo2oH-V6kK1qwd1jY/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/193-PwLmwxVJbdPU00GUnUJQ1bN7iRA8v/view?usp=sharing]
+(https://drive.google.com/file/d/193-PwLmwxVJbdPU00GUnUJQ1bN7iRA8v/view?usp=sharing)
 
 
 - ⚡ Fun fact **I don't sleep**
